@@ -1,0 +1,15 @@
+@import '../../styles/variables';
+.header{
+    padding: 20px;
+    background: $primary;
+}
+.logo{
+    a{
+        display: flex;
+        align-items: center;
+    }
+    img{
+        max-width: 100px;
+    }
+    
+}
